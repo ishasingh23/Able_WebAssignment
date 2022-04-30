@@ -1,0 +1,25 @@
+.button{
+   vertical-align: middle;
+   display: inline-block;
+   text-align: center;
+   width: 120px;
+   color: blue;
+   padding-left: 3x;
+   font-size: xx-large;
+   text-align: center;
+   width: 150px;
+   height: 140px;
+   margin-left: 660px;
+
+
+}
+.button_text{
+    color: rgb(142, 64, 64);
+    display: block;
+    margin-left: 675px;
+    
+}
+.button_icon{
+    font-size:100px;
+    
+}
